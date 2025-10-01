@@ -1,0 +1,42 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+header {
+    width: 80%;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    padding-bottom: 25px;
+}
+
+header {
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+nav {
+    font-size: 24px;
+}
+nav a {
+    color: aliceblue;
+    font-family: sans-serif;
+    font-weight: bold;
+}
